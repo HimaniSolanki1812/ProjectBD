@@ -48,12 +48,27 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Program1.cs" />
+    <Compile Include="Program10.cs" />
+    <Compile Include="Program11.cs" />
+    <Compile Include="Program12.cs" />
+    <Compile Include="Program13.cs" />
+    <Compile Include="Program14.cs" />
+    <Compile Include="Program15.cs" />
+    <Compile Include="Program16.cs" />
+    <Compile Include="Program17.cs" />
+    <Compile Include="Program18.cs" />
+    <Compile Include="Program19.cs" />
     <Compile Include="Program2.cs" />
+    <Compile Include="Program20.cs" />
+    <Compile Include="Program21.cs" />
+    <Compile Include="Program22.cs" />
     <Compile Include="Program3.cs" />
     <Compile Include="Program4.cs" />
     <Compile Include="Program5.cs" />
     <Compile Include="Program6.cs" />
     <Compile Include="Program7.cs" />
+    <Compile Include="Program8.cs" />
+    <Compile Include="Program9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
