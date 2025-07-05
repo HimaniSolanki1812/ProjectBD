@@ -17,7 +17,7 @@ namespace Project_BD
             {
                 string masked = mobile.Substring(0, mobile.Length - 5) + "XXXXX";
                 Console.WriteLine(masked);
-                Console.WriteLine("23SOECE11079:-Solanki Himani");
+                Console.WriteLine("23SOECE11079  -- Solanki Himani");
             }
         }
     }

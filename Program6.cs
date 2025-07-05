@@ -28,7 +28,7 @@ namespace Project_BD
             result = Sum(a, b, c); // Call Sum method
 
             Console.WriteLine("Sum : {0}", result); // Missing
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
 
             Console.Read();
         }

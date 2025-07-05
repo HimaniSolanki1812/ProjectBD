@@ -21,7 +21,7 @@ namespace Project_BD
             }
 
             Console.WriteLine("Factorial : {0}", fact); // Print factorial
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
 
 
             Console.Read(); // Pause output

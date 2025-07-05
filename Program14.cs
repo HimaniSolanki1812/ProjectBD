@@ -10,7 +10,7 @@ namespace Project_BD
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
             Console.Write("Enter Number: ");
             string number = Console.ReadLine();
 

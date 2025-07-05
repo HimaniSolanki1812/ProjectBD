@@ -17,7 +17,7 @@ namespace Project_BD
                 Console.WriteLine("Number is Even");
             else
                 Console.WriteLine("Number is Odd");
-                Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
 
         }
     }

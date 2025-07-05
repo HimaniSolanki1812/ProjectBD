@@ -47,7 +47,7 @@ namespace Project_BD
             Console.WriteLine("State: " + state);
             Console.WriteLine("Country: " + country);
             Console.WriteLine("Email: " + email);
-            Console.WriteLine("23SOECE11079 -- Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
 
         }
     }

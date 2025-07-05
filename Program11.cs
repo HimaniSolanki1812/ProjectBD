@@ -22,7 +22,7 @@ namespace Project_BD
             Console.WriteLine("Ms. " + name);
         else
             Console.WriteLine("Invalid Gender");
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
-    }
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
+        }
     }
 }

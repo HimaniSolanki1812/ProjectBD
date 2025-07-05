@@ -18,7 +18,7 @@ namespace Project_BD
                 Console.WriteLine();
                 
             }
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
         }
     }
 }

@@ -21,7 +21,7 @@ namespace Project_BD
                 Console.WriteLine("Number is Odd");
 
             Console.Read();
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
         }
     }
 }

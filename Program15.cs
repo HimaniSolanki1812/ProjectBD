@@ -10,7 +10,7 @@ namespace Project_BD
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
             Console.Write("Enter Number: ");
             int num = Convert.ToInt32(Console.ReadLine());
             int sum = 0, temp, rem;

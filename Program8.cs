@@ -15,7 +15,7 @@ namespace Project_BD
             string name = Console.ReadLine();
 
             Console.WriteLine(name.ToUpper());
-            Console.WriteLine("23SOECE11079:-Solanki Himani");
+            Console.WriteLine("23SOECE11079  -- Solanki Himani");
         }
     }
 }
