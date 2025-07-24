@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProjectBD.Program</StartupObject>
+    <StartupObject>Project_BD.Program23</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -62,6 +62,7 @@
     <Compile Include="Program20.cs" />
     <Compile Include="Program21.cs" />
     <Compile Include="Program22.cs" />
+    <Compile Include="Program23.cs" />
     <Compile Include="Program3.cs" />
     <Compile Include="Program4.cs" />
     <Compile Include="Program5.cs" />
