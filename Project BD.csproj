@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Project_BD.Program23</StartupObject>
+    <StartupObject>Project_BD.Array1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array1.cs" />
+    <Compile Include="Array10.cs" />
+    <Compile Include="Array2.cs" />
+    <Compile Include="Array3.cs" />
+    <Compile Include="Array4.cs" />
+    <Compile Include="Array5.cs" />
+    <Compile Include="Array6.cs" />
+    <Compile Include="Array7.cs" />
+    <Compile Include="Array8.cs" />
+    <Compile Include="Array9.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Program10.cs" />
