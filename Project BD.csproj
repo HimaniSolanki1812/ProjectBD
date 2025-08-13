@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arithmetic.cs" />
     <Compile Include="Array1.cs" />
     <Compile Include="Array10.cs" />
     <Compile Include="Array2.cs" />
@@ -56,6 +57,12 @@
     <Compile Include="Array7.cs" />
     <Compile Include="Array8.cs" />
     <Compile Include="Array9.cs" />
+    <Compile Include="condition.cs" />
+    <Compile Include="ConsoleApplication1.cs" />
+    <Compile Include="Decision_Making.cs" />
+    <Compile Include="Hello3.cs" />
+    <Compile Include="NumberManipulator.cs" />
+    <Compile Include="Number_Manipulator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Program10.cs" />
@@ -73,7 +80,14 @@
     <Compile Include="Program21.cs" />
     <Compile Include="Program22.cs" />
     <Compile Include="Program23.cs" />
+    <Compile Include="Program24.cs" />
+    <Compile Include="Program25.cs" />
+    <Compile Include="Program26.cs" />
+    <Compile Include="Program27.cs" />
+    <Compile Include="Program28.cs" />
+    <Compile Include="Program29.cs" />
     <Compile Include="Program3.cs" />
+    <Compile Include="Program30.cs" />
     <Compile Include="Program4.cs" />
     <Compile Include="Program5.cs" />
     <Compile Include="Program6.cs" />
@@ -81,6 +95,7 @@
     <Compile Include="Program8.cs" />
     <Compile Include="Program9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sum_of_Array.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
