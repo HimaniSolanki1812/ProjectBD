@@ -1,23 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
-namespace ProjectBD
+namespace Registrations
 {
-    internal class Program
+    internal static class Program
     {
-        public static void Main(string[] args)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            Console.WriteLine("enter num1");
-            int a = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("enter num1");
-            int b = Convert.ToInt32(Console.ReadLine());
-            int sum;
-            sum = a + b;
-            Console.WriteLine("sum is: " + sum);
-            Console.WriteLine("23SOECE11079  -- Solanki Himani");
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }
